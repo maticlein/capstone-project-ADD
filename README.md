@@ -6,11 +6,14 @@ Profesor: Víctor Landaeta
 - Sebastián Gacitúa
 - Patricia Calisto
 - Bastián Guzmán
-- Matthias Clein 
+- Matthias Clein
+## Descripción General del Proyecto
+El proyecto busca analizar el nivel de impacto de las descargas de *Aguas Residuales* de las *Centrales Termoeléctricas* en los cuerpos receptores, siendo éstos, ríos, lagos y/o mares.\
+Se revisará la cantidad de Centrales en funcionamiento, se hará un mapeo territorial y luego nos centraremos en los parámetros que se miden actualmente en las descargas al mar, dentro de la Zona de Protección Litoral (ZPL).
 ## Estructura de archivos y carpetas 
 El proyecto se presenta siguiendo la estructura sugerida por [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/), destacando en este caso dos carpetas: *data* y *notebooks*.\
-### data
-*data* contiene las subcarpetas *raw* y *processed* las cuales, como su nombre lo indican, almacenan la data cruda y procesada respectivamente. Cabe destacar que por motivo del tamaño de los archivos (>1GB), la subcarpeta *raw* se incluyó en el *.gitignore*.\
+### data
+La carpeta *data* contiene las subcarpetas *raw* y *processed* las cuales, como su nombre lo indican, almacenan la data cruda y procesada respectivamente. Cabe destacar que por motivo del tamaño de los archivos (>1GB), la subcarpeta *raw* se incluyó en el *.gitignore*.\
 ### notebooks
 En la carpeta *notebooks* se encuentran los siguientes archivos:
 - **1_limpieza.ipynb**: Se encarga de cargar y limpiar la data cruda, que corresponde a archivos *.csv* y *.shp*.
