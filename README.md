@@ -7,7 +7,7 @@ Profesor: Víctor Landaeta
 - Patricia Calisto
 - Bastián Guzmán
 - Matthias Clein
-## Descripción General del Proyecto
+## Descripción General del Proyecto
 El proyecto busca analizar el nivel de impacto de las descargas de *Aguas Residuales* de las *Centrales Termoeléctricas* en los cuerpos receptores, siendo éstos, ríos, lagos y/o mares.\
 Se revisará la cantidad de Centrales en funcionamiento, se hará un mapeo territorial y luego nos centraremos en los parámetros que se miden actualmente en las descargas al mar, dentro de la Zona de Protección Litoral (ZPL).
 ## Estructura de archivos y carpetas 
